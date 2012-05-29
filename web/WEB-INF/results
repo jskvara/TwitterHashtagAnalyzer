@@ -1,0 +1,66 @@
+<results>
+   <result snapshotCreated="2012-03-16T00:00:00.501Z">
+      <metric name="erdos" value="1.8658536585365855"/>
+      <metric name="clustering" value="0.0061927363132182394"/>
+      <metric name="overlap" value="0.00876234874126799"/>
+      <metric name="embeddedness" value="0.1485148514851485"/>
+      <metric name="density" value="0.02967969438730532"/>
+      <metric name="cluster" value="11"/>
+   </result>
+   <result snapshotCreated="2012-03-23T00:00:00.501Z">
+      <metric name="erdos" value="2.3863636363636362"/>
+      <metric name="clustering" value="0.02112242434160127"/>
+      <metric name="overlap" value="0.007847129435218765"/>
+      <metric name="embeddedness" value="0.0989010989010989"/>
+      <metric name="density" value="0.02323799795709908"/>
+      <metric name="cluster" value="17"/>
+   </result>
+   <result snapshotCreated="2012-03-30T00:00:00.501Z">
+      <metric name="erdos" value="2.558333333333333"/>
+      <metric name="clustering" value="0.01093937959966668"/>
+      <metric name="overlap" value="0.006102402603792495"/>
+      <metric name="embeddedness" value="0.12080536912751678"/>
+      <metric name="density" value="0.020523415977961434"/>
+      <metric name="cluster" value="15"/>
+   </result>
+   <result snapshotCreated="2012-04-06T00:00:00.501Z">
+      <metric name="erdos" value="1.88135593220339"/>
+      <metric name="clustering" value="0.013227251814208335"/>
+      <metric name="overlap" value="0.005540009005105725"/>
+      <metric name="embeddedness" value="0.07317073170731707"/>
+      <metric name="density" value="0.04632768361581921"/>
+      <metric name="cluster" value="15"/>
+   </result>
+   <result snapshotCreated="2012-04-13T00:00:00.501Z">
+      <metric name="erdos" value="2.366336633663366"/>
+      <metric name="clustering" value="0.020418677183383062"/>
+      <metric name="overlap" value="0.011743996161582842"/>
+      <metric name="embeddedness" value="0.19090909090909092"/>
+      <metric name="density" value="0.021355076684139003"/>
+      <metric name="cluster" value="20"/>
+   </result>
+   <result snapshotCreated="2012-04-20T00:00:00.501Z">
+      <metric name="erdos" value="2.3260869565217392"/>
+      <metric name="clustering" value="0.011291205395766018"/>
+      <metric name="overlap" value="0.0011259323006310958"/>
+      <metric name="embeddedness" value="0.018072289156626505"/>
+      <metric name="density" value="0.03880317905563347"/>
+      <metric name="cluster" value="31"/>
+   </result>
+   <result snapshotCreated="2012-04-27T00:00:00.501Z">
+      <metric name="erdos" value="2.823529411764706"/>
+      <metric name="clustering" value="0.009549988476316289"/>
+      <metric name="overlap" value="0.0074365157982758025"/>
+      <metric name="embeddedness" value="0.11320754716981132"/>
+      <metric name="density" value="0.02017894536455359"/>
+      <metric name="cluster" value="20"/>
+   </result>
+   <result snapshotCreated="2012-03-16T00:00:00.501Z">
+      <metric name="erdos" value="1.8764044943820224"/>
+      <metric name="clustering" value="0.004807846474513142"/>
+      <metric name="overlap" value="0.007558783259892653"/>
+      <metric name="embeddedness" value="0.1388888888888889"/>
+      <metric name="density" value="0.02696629213483146"/>
+      <metric name="cluster" value="12"/>
+   </result>
+</results>

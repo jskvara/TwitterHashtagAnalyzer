@@ -1,0 +1,15 @@
+#java
+*.class
+
+#netbeas
+nbproject/private/
+
+#svn
+.svn
+
+## generic files
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out

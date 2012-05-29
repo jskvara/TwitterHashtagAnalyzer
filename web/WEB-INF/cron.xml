@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+	<cron>
+		<url>/v1/publicSnapshotExecuter</url>
+		<description>Download hashtags from Twitter</description>
+		<schedule>every friday 04:00</schedule>
+	</cron>
+</cronentries>
